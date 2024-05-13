@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0559d973bba1b54d9032f619732bb4c, type: 3}
+  m_Name: FireWall
+  m_EditorClassIdentifier: 
+  objectName: 4
+  attackAble: 1
+  size:
+    x: 4
+    y: 1
+  obstacleName: "\uD654\uC5FC\uBCBD"
+  description: "\uD65C\uD65C \uD0C0\uC624\uB974\uB294 \uD654\uC5FC\uC744 \uB450\uB978
+    \uBCBD\uC785\uB2C8\uB2E4."
+  durability: 100
+  reduceValue: 0
+  buildCost: 40
+  values:
+  - 5
+  - 2
+  - 0.5

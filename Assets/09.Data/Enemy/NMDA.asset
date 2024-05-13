@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c1d7b05a9a746740b8e0c331047fdfb, type: 3}
+  m_Name: NMDA
+  m_EditorClassIdentifier: 
+  objectName: 3
+  fileName: NMDA
+  enemyFullName: "\uC54C\uBE44\uB178\uB4DC\uB798\uACE4"
+  description: "\uD654\uC131\uC5D0 \uC0AC\uB294 \uC801\uB300\uC801\uC778 \uC0DD\uBA85\uCCB4"
+  ratingType: 1
+  weakType: 1
+  hp: 100
+  mp: 15
+  atk: 14
+  def: 1
+  checkTime: 3
+  atkSpd: 0.4
+  atkRange: 3
+  sightRange: 5
+  atkRate: 20
+  atkTime: 5
+  movSpd: 2
+  mineralGetRate: 15
+  minMineral: 1
+  maxMineral: 6
